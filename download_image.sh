@@ -6,6 +6,10 @@ case $1 in
         url=https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2020-02-14/2020-02-13-raspbian-buster-lite.zip
         uncompress="unzip -u"
     ;;
+	"raspbian_stretch_lite:2019-04-09")
+        url=https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2019-04-09/2019-04-08-raspbian-stretch-lite.zip
+        uncompress="unzip -u"
+    ;;
     "raspios_lite:2021-03-04")
         url=https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-03-25/2021-03-04-raspios-buster-armhf-lite.zip
         uncompress="unzip -u"
