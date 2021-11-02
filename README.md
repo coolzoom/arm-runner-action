@@ -171,3 +171,7 @@ Real world examples include:
 
 Releases are listed on [dedicated page](https://github.com/pguyot/arm-runner-action/releases).
 Release numbers follow semantic versionning : incompatible changes in invocation will be reflected with major release upgrades.
+
+## How to create custom actions
+Link [custom actions](https://docs.github.com/en/actions/creating-actions/about-custom-actions).
+
